@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <PreferenceCategory android:title="Réseau">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="check_box_preference_1"
+            android:title="connexion" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Luminosité">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="check_box_preference_2"
+            android:title="ajuster luminosité" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Couleurs">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="check_box_preference_3"
+            android:title="couleur de font" />
+    </PreferenceCategory>
+</PreferenceScreen>

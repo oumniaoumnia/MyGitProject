@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="size1">25sp</dimen>
+    <dimen name="size2">16sp</dimen>
+    <dimen name="title_layout_size">50dp</dimen>
+
+</resources>
